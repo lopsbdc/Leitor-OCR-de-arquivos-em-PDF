@@ -1,0 +1,1 @@
+# Leitor-OCR-de-arquivos-em-PDF
